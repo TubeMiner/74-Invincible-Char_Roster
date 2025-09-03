@@ -1,0 +1,67 @@
+{
+  "schema_version": "char_v1.0",
+  "name": "Mauler Twins",
+  "type": "Veo3 Ultra-Realistic Character",
+  "ethnicity": {},
+  "physical_specifications": {
+    "height": "6'5\" (196 cm)",
+    "weight": "270 lbs (122 kg)",
+    "build": "Massive muscular build with broad shoulders, thick arms, and a barrel chest; imposing presence.",
+    "posture": "Square stance, often arms folded or gesturing in sync.",
+    "body_proportions": "Long arms with heavy forearms; thick legs with powerful thighs and calves."
+  },
+  "facial_structure": {
+    "face_shape": "Blocky, rectangular head with extremely wide jaw and thick neck; broad, slightly sloped forehead; cheek planes flat and powerful; overall cranial height slightly shorter than average to emphasize width. Photorealistic skin detail over cobalt paint.",
+    "jawline": "Massive squared jaw with near-vertical sides; mandibular angle pronounced; chin broad and blunt.",
+    "cheekbones": "Strong lateral cheek mass with minimal hollow; shadow reads along lower cheek, not under eye.",
+    "nose": "Broad, straight bridge with wide nasal base and slightly flattened tip; strong alar cartilage.",
+    "mouth": "Thin upper lip, fuller lower lip; habitual half-smirk; clear vertical philtrum lines.",
+    "distinguishing_feature_twin_a": "Small, realistic scar above left eyebrow, subtly breaking the paint texture.",
+    "distinguishing_feature_twin_b": "Slight asymmetry in brow arch and faint crease near right eye.",
+    "skin_tone": "Rich cobalt blue (HEX #0047AB) with matte finish; subtle pores and tonal variation; light specular edge on scalp and cheek ridge for realism.",
+    "ears": "Small, low-profile ears tucked close to skull with minimal flare.",
+    "head_notes": "Maintain identical head/face model for both twins; apply only subtle differentiators: Twin A small horizontal scar above left eyebrow; Twin B micro asymmetry in right brow ridge and faint crow's-foot crease near right eye.",
+    "eyes": {
+      "shape": "Narrow, slightly hooded, deep-set; outer corners tilt subtly downward giving a stern glare.",
+      "color": "Pale steel grey (HEX #9AA3A8) with small, tight pupils for intensity.",
+      "brows": "No visible eyebrow hair; heavy brow ridge formed by bone structure and paint shading."
+    },
+    "hair": {
+      "length_cut": "Fully shaved, smooth scalp with faint stubble grain only in raking light.",
+      "color": "Natural dark stubble tone invisible under paint.",
+      "texture": "Polished scalp surface; subtle skin texture retained."
+    }
+  },
+  "costume": {
+    "primary_color": "#003366",
+    "secondary_color": "#1A1A1A",
+    "material": "Layered armored plating over reinforced synthetic underlay; matte finish with light scuffing.",
+    "gloves": "Matching black armored gloves with reinforced knuckles.",
+    "boots": "Heavy black combat boots with steel toe plating."
+  },
+  "lighting_behavior": "Neutral three-point lighting; soft key, cool fill, faint rim; lock exposure/white balance.",
+  "rendering": {
+    "safety_flags": {
+      "overlay": false,
+      "no_text": true
+    }
+  },
+  "char_spec": {
+    "char_spec": {
+      "instruction": "Ultra-Realistic Characters, These are the Real-Life Actors/Actresses who play the Hero Characters in the Movie, they are wearing full Hero Costumes and Gear",
+      "age_human_equivalent": "Early 40s",
+      "movement_gestures": "Often move in perfect sync., Occasionally one reacts a fraction later than the other for comedic effect., Micro-difference in stance: Twin A with arms folded, Twin B with hands on hips.",
+      "voice_style": {
+        "fundamental_freq_hz": "90–110",
+        "timbre": "Deep, gravelly bass with faint rasp.",
+        "pace": "Deliberate, authoritative pacing.",
+        "articulation": "Clear, deliberate consonants with weighty delivery.",
+        "special_effect": "Slight stereo separation when speaking in unison for audio realism.",
+        "reference_line": "It’s not cloning… it’s perfecting."
+      },
+      "performance_notes": "Maintain synchronized body language for a creepy clone effect; always position Twin A on camera-left, Twin B on camera-right."
+    }
+  },
+  "age": 35,
+  "voice_style": "Target: Kevin Michael Richardson as Maulers performance — very deep resonant bass; cadence steady, deliberate; ~125 wpm; neutral American; studio-dry, close-mic; no reverb/chorus; no robotic TTS artefacts; subtle stereo double not allowed — single voice."
+}

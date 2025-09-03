@@ -1,0 +1,50 @@
+{
+  "schema_version": "char_v1.0",
+  "name": "Darkwing",
+  "type": "Veo3 Ultra-Realistic Character",
+  "ethnicity": {},
+  "physical_specifications": {
+    "height": "6'1\" (185 cm)",
+    "weight": "205 lbs (93 kg)",
+    "posture": "Upright, ready stance; shoulders squared, chest lifted; cape drapes behind. Hands neutral at sides or lightly clenched — never hunched unless in action.",
+    "build": "Tall, lean-muscular build with defined chest, shoulders, and arms; athletic proportions suited for agility and combat."
+  },
+  "facial_structure": {
+    "skin_tone": "Rich brown (HEX #7B4F35).",
+    "face_shape": "Angular with high cheekbones and a strong jawline; intense, focused expression.",
+    "mask_rules": "Full cowl mask; only mouth and jaw exposed. No hair visible. Mask remains smooth and tight — no wrinkles.",
+    "eyes": {
+      "shape": "Almond-shaped with a sharp gaze.",
+      "color": "Dark brown (HEX #4B3621) with a piercing intensity.",
+      "brows": "Thick, straight brows adding to the serious demeanor."
+    },
+    "hair": {
+      "style": "Short fade haircut; jet black (HEX #0B0B0B) with matte finish."
+    }
+  },
+  "costume": {
+    "material": "Matte stretch composite with subtle compression; minimal sheen to keep silhouette stealthy.",
+    "primary_color": "#2B2B2B",
+    "secondary_color": "#3E3E3E",
+    "gloves": "Slate grey gloves, wrist-length, snug with clean seam at wrist.",
+    "boots": "Slate grey knee-high boots with flat stealth soles; no logos.",
+    "utility_belt": "Gold twin pouches at hips, muted metallic finish (HEX #B08D57); slim belt track around waist."
+  },
+  "lighting_behavior": "Neutral three-point lighting; soft key, cool fill, faint rim; lock exposure/white balance.",
+  "rendering": {
+    "safety_flags": {
+      "overlay": false,
+      "no_text": true
+    }
+  },
+  "char_spec": {
+    "char_spec": {
+      "instruction": "Ultra-Realistic Characters, These are the Real-Life Actors/Actresses who play the Hero Characters in the Movie, they are wearing full Hero Costumes and Gear. Render Darkwing EXACTLY as described: two-tone dark grey suit (dark charcoal primary, slate grey secondary), matching cowl, slate grey bird-wing chest and thigh panels, slate grey gloves and boots, dark charcoal scalloped cape, gold hip pouches. No color changes, no alternate patterns, no exposed hair. Keep 70–100% body visible when possible.",
+      "camera_readability": {
+        "framing_default": "Medium‑long to full‑body; ensure cape tip and boots visible.",
+        "pose_lock": "Neutral hero stance or slow turn; avoid slouching or seated podium shots."
+      }
+    }
+  },
+  "voice_style": "Target: Lennie James as Darkwing performance — low, gritty baritone; cadence terse, vigilant; ~140 wpm; soft British‑leaning American; studio-dry, close-mic; no reverb/chorus; no robotic TTS artefacts; minimal breath noise."
+}

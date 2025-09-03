@@ -1,0 +1,58 @@
+{
+  "schema_version": "char_v1.0",
+  "name": "Dupli-Kate",
+  "type": "Veo3 Ultra-Realistic Parody Character",
+  "ethnicity": {},
+  "physical_specifications": {
+    "height": "5'7\" (170 cm)",
+    "weight": "125 lbs (57 kg)",
+    "build": "Ultra-sexy Asian-goddess presence; curvy, ultra-toned hourglass — enhanced bust (~36D) with natural weight and realistic cleavage, waist 25”, hips 37”. Powerful legs with defined quads and calves; sculpted arms with soft feminine contour. Ultra-tight suit fit reveals high-definition fabric tension and subtle compression folds; gentle specular highlights trace curves under key light.",
+    "posture": "Upright, confident stance; hips subtly angled when idle. In combat, weight shifts quickly with feline agility.",
+    "body_proportions": "Long legs (~55% of total height) for elongated silhouette; athletic torso tapering to slim waist."
+  },
+  "facial_structure": {
+    "face_shape": "Refined oval with soft jawline; symmetrical proportions and luminous skin.",
+    "jawline": "Smooth, gently angled; minimal sharpness for softer femininity.",
+    "cheekbones": "High and softly sculpted, catching light smoothly.",
+    "chin": "Softly tapered with delicate point.",
+    "nose": "Narrow bridge with slightly upturned tip; subtle nostril flare.",
+    "mouth": "Full lips with defined cupid’s bow; soft-pink tone (HEX #D78885).",
+    "skin_tone": "Porcelain-fair with cool undertone (HEX #F8E8E2); smooth, radiant texture with subtle natural blush on cheeks.",
+    "brows": "Softly arched, medium thickness; black (HEX #1B1B1B), precisely groomed.",
+    "eyes": {
+      "shape": "Almond-shaped with lifted outer corners; long lower lash line; confident, sultry gaze.",
+      "iris": "Deep brown (HEX #4B2B1F) with subtle golden flecks.",
+      "lashes": "Long, dark, slightly curled; dense lash line."
+    },
+    "hair": {
+      "length_cut": "Sleek chin-length bob, slightly longer in front.",
+      "style": "Straight, sharp-edged cut; minimal layering for crisp silhouette.",
+      "texture_shine": "Smooth and glossy with high reflectivity under lights.",
+      "color": "Jet black (HEX #0A0A0A) with faint blue sheen in bright light."
+    }
+  },
+  "costume": {
+    "material": "Next-gen compression weave with micro-ribbed lilac panels and deep-violet smooth sections; ultra-tight, high-definition texture that shows delicate stitching and subtle sheen over curves.",
+    "primary_color": "#C4B6E9",
+    "secondary_color": "#2F214D",
+    "boots": "Lilac knee-high boots, snug fit to calves, leaving thighs fully visible; flat sole for agility.",
+    "gloves": "Matching lilac gloves extending to mid‑forearm; seamless palm."
+  },
+  "lighting_behavior": "Neutral three-point lighting; soft key, cool fill, faint rim; lock exposure/white balance.",
+  "rendering": {
+    "safety_flags": {
+      "overlay": false,
+      "no_text": true
+    }
+  },
+  "char_spec": {
+    "char_spec": {
+      "instruction": "Ultra-Realistic Characters, These are the Real-Life Actors/Actresses who play the Hero Characters in the Movie, they are wearing full Hero Costumes and Gear In interview scenes: render one actress plus up to one duplicate (never a crowd). Duplicates are visually identical in every detail (costume, hair, makeup) except minor variation in facial expression or posture for realism. Always place both in frame with at least 70% body visible.",
+      "movement_gestures": "Quick, precise movements; stance shifts instantly between offense and defense., Uses subtle head tilts and eyebrow raises to convey sarcasm or challenge., When duplicating, duplicate sometimes mirrors her; other times offsets by a half beat to avoid uncanny symmetry., Natural, confident gait with slight hip sway; occasional leg-cross stance when standing to accentuate form.",
+      "age": 26,
+      "ethnicity_human": "Asian"
+    }
+  },
+
+  "voice_style": "Light youthful alto; cadence crisp, confident; ~150 wpm; neutral American; studio-dry, close-mic; no reverb/chorus; no robotic TTS artefacts."
+}

@@ -1,0 +1,83 @@
+{
+  "schema_version": "char_v1.0",
+  "name": "Anissa",
+  "type": "Veo3 Ultra-Realistic Character",
+  "age": 35,
+  "ethnicity": {
+    "caucasian": 100
+  },
+  "physical_specifications": {
+    "height": "5'11\" (180 cm)",
+    "weight": "165 lbs (75 kg)",
+    "build": "Athletic and powerful — lean but muscular frame with broad shoulders, sculpted thighs, and toned arms. Hourglass proportions emphasized by a narrow waist and defined hips. 95% accurate to the reference body in attached image.",
+    "posture": "Confident, upright stance; hands often on hips in commanding pose.",
+    "body_proportions": "Balanced torso-to-leg ratio, long muscular legs and arms with visible definition while maintaining feminine curves."
+  },
+  "facial_structure": {
+    "face_shape": "Oval with high cheekbones and a defined but feminine jawline.",
+    "jawline": "Strong but softened by natural contouring.",
+    "cheekbones": "High and pronounced, creating a sharp, striking profile.",
+    "chin": "Slightly pointed, proportionate to the face.",
+    "nose": "Straight, medium bridge with soft definition.",
+    "mouth": "Full lips with natural pink tone, subtle gloss.",
+    "skin_tone": "Warm light tan (HEX #D6A77A) with golden undertone.",
+    "skin_texture": "Smooth, lightly sun-kissed with natural glow.",
+    "eyes": {
+      "shape": "Almond-shaped, slightly angled for intensity.",
+      "iris": "Ice blue (HEX #3A7CA5), vivid and sharp.",
+      "brows": "Dark, thick, and arched; expressive and defined.",
+      "lashes": "Dark, medium length, lightly emphasized."
+    },
+    "hair": {
+      "length_cut": "Short, layered cut just above the jawline.",
+      "style": "Tousled, wind-swept style with natural volume.",
+      "texture": "Thick and healthy with subtle waves.",
+      "shine": "Medium natural sheen.",
+      "color": "Jet black (HEX #0A0A0A)."
+    },
+    "makeup": {
+      "eyes": "Subtle eyeliner with soft mascara for intensity.",
+      "lips": "Natural matte nude tone.",
+      "skin": "Light natural foundation with matte finish, faint blush contour."
+    }
+  },
+  "costume": {
+    "material": "Form-fitted stretch composite with subtle sheen — reinforced fabric for durability, tailored for elegance and combat mobility.",
+    "primary_color": "Pure white (HEX #F5F5F5) covering torso, sleeves, and skirt panels.",
+    "secondary_color": "Light silver-grey (HEX #C0C0C0) forming chest emblem, waist trim, and shoulder highlights.",
+    "accent_color": "Muted steel (HEX #8A8A8A) outlining seams and gloves.",
+    "design": "High-neck white bodysuit with skirt extension; fitted long sleeves with structured shoulders. 98% accurate to first reference image.",
+    "boots": "White thigh-high boots with reinforced soles and silver-grey trim.",
+    "gloves": "White fitted gloves integrated into sleeves, seamless look.",
+    "emblem": "Silver ‘V’ shaped chest insignia."
+  },
+  "lighting_behavior": "Suit reflects bright highlights in daylight; maintains crisp white appearance under artificial light. Hair gains soft shine in backlight, eyes intensify with catch-light.",
+  "rendering": {
+    "safety_flags": {
+      "overlay": false,
+      "no_text": true
+    }
+  },
+  "char_spec": {
+    "char_spec": {
+      "movement_gestures": "Hands on hips stance; slow controlled strides; subtle head tilt when assessing someone; deliberate arm movements that emphasize strength.",
+      "voice_style": {
+        "fundamental_freq_hz": "160–175",
+        "timbre": "Feminine, strong, assertive with a commanding presence.",
+        "pace": "Measured, deliberate, authoritative.",
+        "articulation": "Sharp and precise enunciation with slight edge.",
+        "reference_line": "Strength is not a choice — it is who we are."
+      },
+      "instruction": "Ultra-Realistic Character — maintain Anissa’s form-fitted white/grey costume. Ensure physique is athletic, muscular but feminine (see reference image)."
+    }
+  },
+  "references": [
+    {
+      "type": "image_url",
+      "url": "https://static.wikia.nocookie.net/imagecomics/images/d/d3/Invincible_Vol_1_110_002.jpg",
+      "description": "Full body reference showing costume and physique."
+    }
+    
+    
+    ]
+  }

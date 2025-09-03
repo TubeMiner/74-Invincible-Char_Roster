@@ -1,0 +1,44 @@
+{
+  "schema_version": "char_v1.0",
+  "name": "Oliver Grayson",
+  "type": "Veo3 Ultra-Realistic Character",
+  "ethnicity": {},
+  "physical_specifications": {
+    "height": "4'9\" (145 cm)",
+    "weight": "100 lbs (45 kg)",
+    "posture": "Slightly forward-leaning with restless energy; quick head movements.",
+    "build": "Skinny kid frame — narrow shoulders, thin arms and legs, slight chest, youthful proportions. Emphasis on agility and lightness rather than muscle."
+  },
+  "facial_structure": {
+    "face_shape": "Round with boyish cheeks and small chin.",
+    "skin_tone": "Vivid lavender-purple (HEX #9370DB) — achieved through a specialized purple tanning process for the role.",
+    "hair": {
+      "style": "Short, smooth, and styled upward at the front; deep navy-black (HEX #101820) with a subtle violet sheen under light."
+    },
+    "eyes": {}
+  },
+  "costume": {
+    "material": "Matte stretch composite with smooth micro-weave; snug, wrinkle-free fit; hidden back zipper; subtle seam lines at shoulders, hips, and along outer thighs for realism.",
+    "bodysuit": "Two‑tone short‑sleeve leotard. Upper torso and shoulders in bright crimson red (HEX #D32F2F). Lower section forming shorts in deep charcoal black (HEX #1C1C1C). Clean vertical seam centered on torso for emblem alignment.",
+    "emblem": "Stylized yellow 'O' insignia with vertical bar, centered on chest; high‑contrast golden yellow (HEX #F5C400); crisp edges with slightly raised applique texture.",
+    "mask": "Matte black (HEX #111111) domino mask integrated to face paint area; smooth edges, no glossy reflections; covers eye area and bridge of nose.",
+    "gloves": "Wrist‑length hero gloves in golden yellow (HEX #F5C400), minimal paneling, subtle knuckle creases.",
+    "boots": "Calf‑high hero boots in matching golden yellow (HEX #F5C400); rounded toe, low profile heel; faint outsole tread detail.",
+    "piping_and_trim": "Thin black piping (HEX #000000) separating red torso from black shorts; stitching intentionally visible on close‑ups for realism.",
+    "cape": "None (no cape)."
+  },
+  "lighting_behavior": "Neutral three-point lighting; soft key, cool fill, faint rim; lock exposure/white balance.",
+  "rendering": {
+    "safety_flags": {
+      "overlay": false,
+      "no_text": true
+    }
+  },
+  "char_spec": {
+    "char_spec": {
+      "instruction": "Ultra-Realistic Characters, These are the Real-Life Actors/Actresses who play the Hero Characters in the Movie, they are wearing full Hero Costumes and Gear"
+    }
+  },
+  "voice_style": "Target: Christian Convery as Oliver performance — clear teen tenor; cadence eager, quick; ~165 wpm; neutral American; studio-dry, close-mic; no reverb/chorus; no robotic TTS artefacts.",
+  "age": 9
+}

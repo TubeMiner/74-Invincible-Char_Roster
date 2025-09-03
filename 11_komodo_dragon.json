@@ -1,0 +1,34 @@
+{
+  "schema_version": "char_v1.0",
+  "name": "Komodo Dragon",
+  "type": "Veo3 Ultra-Realistic Character",
+  "ethnicity": {},
+  "physical_specifications": {
+    "height": "6'7\" (201 cm)",
+    "weight": "310 lbs (141 kg)",
+    "posture": "Towering, broad stance with slightly hunched shoulders and forward-leaning head, exuding intimidation."
+  },
+  "facial_structure": {
+    "face_shape": "Square, heavily built with pronounced brow ridge and strong jaw.",
+    "skin_tone": "Deep brown (HEX #5A3E2B) with rugged texture and visible battle lines.",
+    "eyes": {
+      "shape": "Small, deep-set with piercing glare.",
+      "color": "Fiery red (HEX #FF2400)."
+    },
+    "hair": {}
+  },
+  "costume": {},
+  "lighting_behavior": "Neutral three-point lighting; soft key, cool fill, faint rim; lock exposure/white balance.",
+  "rendering": {
+    "safety_flags": {
+      "overlay": false,
+      "no_text": true
+    }
+  },
+  "char_spec": {
+    "char_spec": {
+      "instruction": "Ultra-Realistic Characters, These are the Real-Life Actors/Actresses who play the Hero Characters in the Movie, they are wearing full Hero Costumes and Gear"
+    }
+  },
+  "voice_style": "Target: Generic villain performance — husky low; cadence controlled, menacing; ~135 wpm; neutral American; studio-dry, close-mic; no reverb/chorus; no robotic TTS artefacts."
+}

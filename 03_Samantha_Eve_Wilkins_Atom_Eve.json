@@ -1,0 +1,80 @@
+{
+  "schema_version": "char_v1.0",
+  "name": "Samantha Eve Wilkins / Atom Eve",
+  "type": "Veo3 Ultra-Realistic Character",
+  "age": 19,
+  "ethnicity": {
+    "caucasian": 100
+  },
+  "physical_specifications": {
+    "height": "5'8\" (173 cm)",
+    "weight": "138 lbs (63 kg)",
+    "build": "Ultra-feminine, sexy hourglass build with athletic tone — full breasts, narrow waist, wide hips, and shapely long legs. Core and arms toned with soft curves. 95% accurate to body reference image.",
+    "posture": "Confident, upright stance with natural elegance; casual hip tilt when relaxed.",
+    "body_proportions": "Defined hourglass ratio — bust 38DD in, waist 24 in, hips 36 in. Balanced long legs and torso with athletic proportions."
+  },
+  "facial_structure": {
+    "face_shape": "Heart-shaped face with soft jaw taper and high cheekbones.",
+    "jawline": "Softly defined, feminine contour.",
+    "cheekbones": "High, prominent, creating a natural contour.",
+    "chin": "Slightly pointed and delicate.",
+    "nose": "Straight, narrow bridge with a subtly rounded tip.",
+    "mouth": "Full lips with natural pink tone, soft gloss finish.",
+    "skin_tone": "Fair with peach undertone (HEX #FFDCCF); natural blush on cheeks.",
+    "skin_texture": "Smooth, youthful glow with even complexion.",
+    "eyes": {
+      "shape": "Large almond-shaped with striking intensity.",
+      "iris": "Green.",
+      "brows": "Thick, arched, well-groomed, auburn brown.",
+      "lashes": "Long, dark, curled for an expressive look."
+    },
+    "hair": {
+      "length_cut": "Long, mid-back length.",
+      "style": "Straight with natural flow, voluminous with slight wave at ends.",
+      "texture": "Thick, silky, natural movement in motion.",
+      "shine": "High sheen, healthy and radiant.",
+      "color": "Vibrant red-orange (HEX #E25822) with golden shimmer highlights."
+    },
+    "makeup": {
+      "eyes": "Light eyeliner with natural mascara emphasizing lashes.",
+      "lips": "Soft rose-pink lip gloss for youthful shine.",
+      "skin": "Light foundation with luminous finish, subtle contour for cheekbones."
+    }
+  },
+  "costume": {
+    "material": "Form-fitted high-grade stretch composite with smooth matte finish; designed for combat mobility while accentuating figure.",
+    "primary_color": "Deep pink (HEX #E75480) bodysuit.",
+    "secondary_color": "Light pink (HEX #F5A9B8) accents on gloves, boots, and cape interior.",
+    "cape": "Pink, mid-back length, attached at shoulders.",
+    "boots": "Knee-high boots, fitted, light pink trim.",
+    "gloves": "Full forearm gloves, light pink tone.",
+    "emblem": "White circular emblem with atom symbol interwoven with female gender sign, centered on chest."
+  },
+  "lighting_behavior": "Hair glows with fiery highlights under bright light. Suit retains vibrant pink hue across lighting environments and becomes 30% transparent; emblem remains crisp and readable in frontal lighting.",
+  "rendering": {
+    "safety_flags": {
+      "overlay": false,
+      "no_text": true
+    }
+  },
+  "char_spec": {
+    "char_spec": {
+      "movement_gestures": "Graceful hand movements when activating powers; subtle floating stance when levitating; expressive eyebrow lifts and direct gaze during conversation.",
+      "voice_style": {
+        "fundamental_freq_hz": "185–200",
+        "timbre": "Youthful, feminine, clear with confident tone.",
+        "pace": "Natural, steady, assertive but not rushed.",
+        "articulation": "Clean enunciation, smooth delivery with warmth.",
+        "reference_line": "I make my own destiny."
+      },
+      "instruction": "Ultra-Realistic Character."
+    }
+  },
+  "references": [
+    {
+      "type": "image",
+      "url": "https://en.wikipedia.org/wiki/File:Atom_Eve_Fan_art.png",
+      "description": "Reference image of Samantha Eve Wilkins as Atom Eve."
+    }
+  ]
+}

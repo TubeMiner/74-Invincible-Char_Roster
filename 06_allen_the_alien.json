@@ -1,0 +1,76 @@
+{
+  "schema_version": "char_v1.0",
+  "name": "Allen the Alien",
+  "type": "Veo3 Ultra-Realistic Character",
+  "ethnicity": {},
+  "physical_specifications": {
+    "height": "6'8\" (203 cm)",
+    "weight": "210 lbs (95 kg)",
+    "build": "Extremely muscular superhero physique — massive boulder-like shoulders (54 inches), barrel chest (52 inches) with deeply carved pectorals, arms as thick as thighs with high-definition biceps, triceps, and forearms; eight-pack abs sharply defined, narrow V-tapered waist (31 inches), and huge, powerful legs with striated quads, hamstrings, and diamond-cut calves. Zero visible body fat — veins subtly apparent across arms and shoulders. Actor appears at absolute peak physical condition, akin to elite bodybuilder while retaining athletic mobility. Costume is skin-tight and compresses against every muscle group without wrinkles or sagging.",
+    "posture": "Open, confident stance; shoulders squared, chest slightly forward; arms relaxed at sides or resting on the diner table. No objects blocking upper body visibility.",
+    "body_proportions": "Thick upper torso, wide shoulders, and proportionally strong legs; long arms with heavily muscled forearms."
+  },
+  "facial_structure": {
+    "face_shape": "Handsome oval-alien shape with athletic fullness in the mid-face and a subtle taper toward the chin; reads like a heroic leading man.",
+    "jawline": "Clean, gently squared jaw with crisp mandibular edge; no jowls; athletic definition.",
+    "cheekbones": "High and pronounced, forming a natural light-catching S-curve from temple to mouth corners.",
+    "chin": "Defined and slightly prominent for masculine balance; smooth contour with no cleft.",
+    "nose": "Slimmer, straight bridge aligned directly below the single central eye; medium-small rounded tip; refined nostril flare.",
+    "mouth": "Wide, confident smile; full but trim lips with a natural cupid’s arc on the upper lip; subtle upward corners for charm.",
+    "skin_tone": "Deep orange alien hue (HEX #E57E25) with warm, sunlit undertone; photoreal pores and micro-variation for realism.",
+    "skin_texture": "Smooth, healthy skin with faint micro-lines around the mouth and central eye ridge; soft specular sheen under studio key light.",
+    "eyes": {
+      "shape": "Two large, expressive almond-shaped eyes, evenly spaced and proportionate to the face.",
+      "iris": "Golden amber (HEX #D28B26) with layered radial striations and dark limbal ring for depth and attractiveness.",
+      "eyelashes": "Short, defined lash line; slightly darker pigmentation at the lid margin for contrast.",
+      "brows": "Thick, sculpted, slightly arched brows that frame the eyes naturally."
+    },
+    "hair": {
+      "length_cut": "Fully bald — perfectly smooth scalp.",
+      "style": "Clean-shaven; light-reflective polish at crown and temples.",
+      "texture": "Even skin surface following skull contour; no stubble.",
+      "shine": "Medium sheen in direct light; matte in shadows for realism.",
+      "color": "N/A — bald."
+    }
+  },
+  "costume": {
+    "material": "Ultra-high-density matte stretch composite with fine honeycomb microtexture; crimson jacket-style upper torso with exaggerated shoulder contouring; white body suit compression panels showing full abdominal and chest detail; charcoal-gray knee and forearm pads integrated seamlessly; flawless stitching.",
+    "primary_color": "#FFFFFF",
+    "secondary_color": "#B22222",
+    "utility_belt": "Gunmetal gray (HEX #555555) with symmetrical high-capacity storage pouches, machined edges for realism."
+  },
+  "lighting_behavior": "Neutral three-point lighting; soft key, cool fill, faint rim; lock exposure/white balance.",
+  "rendering": {
+    "safety_flags": {
+      "overlay": false,
+      "no_text": true
+    }
+  },
+  "char_spec": {
+    "movement_gestures": [
+      "Casual but with bursts of superhero agility.",
+      "Leans forward slightly when speaking to emphasize a point.",
+      "Tilts head in curiosity during conversation.",
+      "Uses broad, open-hand gestures when explaining."
+    ],
+    "rendering_safeguards": [
+      "Camera angles — front, three-quarter, and side profiles must always display both eyes clearly.",
+      "Avoid framing that hides the eye region.",
+      "Do not use shadows or reflections to obscure either eye.",
+      "Do not crop frames above the eyebrow ridge — both eyes must remain visible."
+    ],
+    "anti_rendering_notes": [
+      "Do NOT depict character as overweight or bulky beyond muscular definition.",
+      "Maintain lean, proportionate superhero musculature.",
+      "Avoid rounded midsection or excess fat in face and body.",
+      "Keep jawline and cheek structure sharp enough to read as fit.",
+      "Maintain exactly two evenly spaced eyes — no missing or asymmetrical eyes.",
+      "Eyes must be proportionate and heroically scaled.",
+      "Avoid exaggerated brow ridge thickness that shadows the eyes excessively.",
+      "From all angles, both eyes must remain readable and well-lit.",
+      "Do not add accessories, helmets, or visors that could hide the eyes unless explicitly scripted."
+    ]
+  },
+  "age": 35,
+  "voice_style": "Target: Seth Rogen as Allen performance — warm gravelly baritone; cadence laid‑back; ~140 wpm; neutral American; studio-dry, close-mic; no reverb/chorus; no robotic TTS artefacts; optional light chuckle on tag lines."
+}

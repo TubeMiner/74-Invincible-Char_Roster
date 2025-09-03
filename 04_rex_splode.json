@@ -1,0 +1,85 @@
+{
+  "schema_version": "char_v1.0",
+  "name": "Rex Splode",
+  "type": "Veo3 Ultra-Realistic Character — Actor in Costume",
+  "age": 23,
+  "ethnicity": {
+    "african_american": 2.0,
+    "native_american": 15.0,
+    "italian": 83.0
+  },
+  "physical_specifications": {
+    "height": "6'1\" (185 cm)",
+    "weight": "205 lbs (93 kg)",
+    "build": "Athletic–muscular frame — thicker deltoids, fuller chest (~54 inches), broader upper back with visible lat sweep, deeply cut obliques, and stronger legs (powerful quads/hamstrings, rounded glutes). Waist tapered to ~30 inches. Muscles read clearly under suit compression with realistic fiber definition; veins faintly visible on forearms during motion.",
+    "posture": "Upright and confident; shoulders set down-and-back; subtle forward lean when engaged.",
+    "body_proportions": "Balanced heroic proportions; slightly longer arms; forearms emphasized by padded glove design."
+  },
+  "facial_structure": {
+    "face_shape": "Square with strong, defined jawline and high cheekbones.",
+    "jawline": "Angular and well-defined.",
+    "cheekbones": "High and pronounced, catching light for natural contour.",
+    "chin": "Squared and proportionate, no cleft.",
+    "nose": "Straight bridge, medium width, slightly rounded tip.",
+    "mouth": "Broad with full lips; natural confident curve.",
+    "skin_tone": "Warm tan with subtle golden depth (HEX #A9745A), balanced blend reflecting mixed heritage; healthy sun-kissed glow under daylight.",
+    "skin_texture": "Smooth, even complexion with realistic pore detail and light sheen under key lighting.",
+    "beard_stubble": "Light 12–24 hour stubble along jawline and upper lip; slightly uneven density for realism; individual strands clearly visible in close-up shots.",
+    "lips_detail": "Natural lip texture with fine vertical lines; slight dryness along the lower lip edge; soft natural sheen without gloss effect.",
+    "eyes": {
+      "shape": "Large, expressive, almond-shaped.",
+      "iris": "Hazel-brown (HEX #8E7618) with subtle amber flecks.",
+      "eyelashes": "Short, dark, defined.",
+      "brows": "Thick, slightly arched; deep brown (HEX #7B4B26).",
+      "sclera_detail": "Subtle red veins for authenticity; wet specular reflection in inner corners; avoids overly bright or flat white.",
+      "catchlight": "Single softbox catchlight from camera-left for natural depth and realism."
+    },
+    "hair": {
+      "length_cut": "Long on top (~8 inches) gathered fully into a neat man bun at the crown; sides trimmed short (~1 inch).",
+      "style": "Full man bun with smooth wrap, no loose flyaways; clean undercut fade on sides.",
+      "texture": "Thick, straight, healthy strands with subtle natural wave.",
+      "shine": "Low-to-medium sheen.",
+      "color": "Medium red-auburn (HEX #A24E30) with natural highlights.",
+      "root_variation": "Slightly darker roots for depth; individual strand separation visible at hairline.",
+      "flyaways": "A few fine, natural flyaways near temples and bun for realism.",
+      "scalp_visibility": "Subtle scalp visibility at part; avoids painted or overly perfect look."
+    }
+  },
+  "costume": {
+    "material": "High-grade matte stretch composite; subtle honeycomb microtexture in yellow panels; deep red panels in smooth compression weave.",
+    "primary_color": "#FFD84D",
+    "secondary_color": "#B22222",
+    "gloves": "Brown leather fingerless combat gloves, padded with visible stitching and realistic creasing.",
+    "boots": "Dark brown leather tactical boots with angular reinforced plates, knee-high with strap closures.",
+    "utility_belt": "Slim brown leather with low-profile functional pouches."
+  },
+  "lighting_behavior": "Neutral three-point lighting; soft key, cool fill, faint rim; lock exposure/white balance.",
+  "rendering": {
+    "safety_flags": {
+      "overlay": false,
+      "no_text": true
+    }
+  },
+  "char_spec": {
+    "char_spec": {
+      "lens": "50–65mm equivalent for natural perspective",
+      "aperture": "f/2.8–f/4 for shallow depth of field",
+      "shutter_speed": "1/120s",
+      "iso": "400–640 for clean yet natural grain",
+      "white_balance": "Neutral daylight (5600K)",
+      "framing_default": "Medium-long (knee-up), podium slightly offset, 70% of body visible",
+      "material_shading": {
+        "skin": "PBR shading with roughness 0.45–0.55; subtle specular on forehead and nose",
+        "fabric": "Matte with micro-roughness variation; avoids uniform gloss",
+        "leather": "Semi-matte with irregular specular highlights; visible edge wear"
+      },
+      "voice_style": {
+        "fundamental_freq_hz": "240",
+        "note": "Young, cocky edge; slightly breathy onset; tighten brightness by 5% to avoid metallic timbre; add mild prosody variation (±8% rate, ±20 cents pitch)."
+      },
+      "performance_notes": "Behaves like a celebrity actor at all times. Confident, cocky eductive, yound, edgy",
+      "veo3_do_not": "Do NOT render outlines or inked edges., Do NOT use flat cell shading; use realistic light falloff and global illumination., Do NOT remove skin texture or stubble detail."
+    }
+  },
+  "voice_style": "Target: Jason Mantzoukas as Rex performance — raspy high‑energy tenor; cadence fast, aggressive; ~170 wpm; neutral American; studio-dry, close-mic; no reverb/chorus; no robotic TTS artefacts; don’t shout; keep intelligible."
+}

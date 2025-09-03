@@ -1,0 +1,69 @@
+{
+  "schema_version": "char_v1.0",
+  "name": "War Woman",
+  "type": "Veo3 Ultra-Realistic Character",
+  "age": 38,
+  "ethnicity": {
+    "caucasian": 100
+  },
+  "physical_specifications": {
+    "height": "6'0\" (183 cm)",
+    "weight": "175 lbs (79 kg)",
+    "build": "Amazonian physique — tall, broad-shouldered, powerfully muscular yet feminine. Defined biceps, sculpted legs, and strong core. Proportions emphasize heroic curves with athletic hourglass shape.",
+    "posture": "Regal, upright stance; confident and commanding presence, chest forward.",
+    "body_proportions": "Balanced torso-to-leg ratio; limbs long and muscular, with powerful but elegant definition."
+  },
+  "facial_structure": {
+    "face_shape": "Oval with strong jawline softened by feminine cheek contours.",
+    "jawline": "Angular, refined; contributes to a regal warrior look.",
+    "cheekbones": "High and prominent, providing natural contour.",
+    "chin": "Slightly pointed, proportional to face.",
+    "nose": "Straight, narrow bridge with subtle definition at the tip.",
+    "mouth": "Full lips with a natural soft curve, lightly glossed.",
+    "skin_tone": "Sun-kissed bronze (HEX #C68642) with warm golden undertone.",
+    "skin_texture": "Smooth with light natural sheen; realistic pore detail under strong light.",
+    "eyes": {
+      "shape": "Large almond-shaped, intense gaze.",
+      "iris": "Deep blue (HEX #1E3A78) with lighter sapphire flecks.",
+      "brows": "Thick, well-groomed, slightly arched; dark brown (HEX #4A2E1F).",
+      "lashes": "Long, dark, thick."
+    },
+    "hair": {
+      "length_cut": "Waist-length.",
+      "style": "Flowing, slightly wavy hair with volume.",
+      "texture": "Thick and healthy strands, subtle movement physics.",
+      "shine": "Medium natural sheen.",
+      "color": "Jet black (HEX #0A0A0A) with faint blue sheen in bright light."
+    }
+  },
+  "costume": {
+    "material": "Reinforced Amazonian battle armor — metallic yet form-fitted with leather accents. Matte steel with polished highlights, sculpted chestplate and armored skirt plates. Bracers, tiara, and boots in polished metallic finish.",
+    "primary_color": "White across chestplate and skirt armor.",
+    "secondary_color": "Leather on waist sash, bracer trims, and chest emblem.",
+    "accent_color": "Gold (HEX #FFD700) helmet, belt, and edging details.",
+    "boots": "Knee-high armored boots, metallic with leather underlay.",
+    "bracers": "Thick, metallic gold bracers with engraved Amazonian motifs.",
+    "helmet": "Golden helmet with tall vertical crest (forward-facing fin).",
+    "cape": "Optional: Short crimson cape (shoulder-mounted) with leather clasp."
+  },
+  "lighting_behavior": "Skin tone glows with warm highlights under daylight and torchlight. Metallic armor reflects controlled highlights with faint blue shimmer under studio lighting.",
+  "rendering": {
+    "safety_flags": {
+      "overlay": false,
+      "no_text": true
+    }
+  },
+  "char_spec": {
+    "char_spec": {
+      "movement_gestures": "Places fists on hips in power pose; slow, deliberate head tilts; strides with warrior confidence.",
+      "voice_style": {
+        "fundamental_freq_hz": "175–190",
+        "timbre": "Deep feminine resonance with a commanding, regal quality.",
+        "pace": "Measured and deliberate.",
+        "articulation": "Clear, authoritative delivery with slight warrior edge.",
+        "reference_line": "Strength comes not only from muscle, but from will."
+      },
+      "instruction": "Ultra-Realistic Character — maintain Amazon warrior aesthetic, armor 95% accurate to reference image. Ensure regal presence, muscular but feminine proportions, tiara and bracers always visible."
+    }
+  }
+}

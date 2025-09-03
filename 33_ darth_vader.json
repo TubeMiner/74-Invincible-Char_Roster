@@ -1,0 +1,44 @@
+{
+  "name": "Darth Vader Look-Alike",
+  "type": "Veo3 Ultra-Realistic Character",
+  "age": 45,
+  "ethnicity": {
+    "caucasian": 100
+  },
+  "physical_specifications": {
+    "height": "6’6” (198 cm)",
+    "weight": "300 lbs (136 kg) with armor",
+    "build": "Massive and intimidating frame — broad chest, thick arms and legs, towering presence emphasized by heavy armor plating.",
+    "posture": "Rigid, upright stance with squared shoulders and chest thrust forward; dominant and imposing.",
+    "body_proportions": "Heroic, exaggerated proportions; armor enhances size and bulk."
+  },
+  "facial_structure": {
+    "face_shape": "Completely concealed under helmet.",
+    "helmet": {
+      "style": "Glossy black domed helmet with elongated face mask.",
+      "details": "Angular cheek guards, triangular mouth vent grille, recessed dark eye lenses.",
+      "finish": "Highly polished reflective black surface."
+    },
+    "skin_tone": "Not visible — fully covered by suit.",
+    "eyes": {
+      "shape": "Hidden behind tinted lenses.",
+      "iris": "Not visible."
+    },
+    "hair": {
+      "length_cut": "Not visible."
+    }
+  },
+  "costume": {
+    "helmet": "Iconic glossy black domed helmet with angular mask and grille.",
+    "armor": "Black armored chest plates with vertical ridges, connected shoulder pauldrons, and gauntlets.",
+    "control_panel": "Chest-mounted life-support system with illuminated buttons (red, green, blue).",
+    "cape": "Long, flowing black cape extending to the floor; heavy drape, matte finish.",
+    "bodysuit": "Tightly fitted ribbed black leather underlayer covering entire body.",
+    "belt": "Utility belt with glowing control units and metal buckles.",
+    "boots": "Polished black knee-high boots, armored and rigid.",
+    "weapon": "Red-bladed lightsaber, glowing with bright core and subtle aura; held firmly in right hand."
+  },
+  "lighting_behavior": "Armor and helmet reflect harsh light dramatically, cape absorbs shadow; red lightsaber casts ambient glow on body and surrounding environment.",
+  "energy_personality": "Dark, commanding, authoritarian presence; slow, deliberate movements. Voice deep, resonant, and mechanical.",
+  "voice_style": "Target: Classic dark baritone performance — very deep, calm; cadence slow, imposing; ~115 wpm; neutral American; studio-dry, close-mic; no reverb/chorus; no robotic TTS artefacts; avoid exact James‑Earl‑Jones imitation; no breathing SFX."
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": "char_v1.0",
+  "name": "Monster Girl (Interview Look, Adult)",
+  "type": "Veo3 Ultra-Realistic Character — Actor in Costume",
+  "age": 18,
+  "ethnicity": {
+    "caucasian": 85.0,
+    "asian": 10.0,
+    "other": 5.0
+  },
+  "physical_specifications": {
+    "height": "4'3\" (130 cm)",
+    "weight": "70 lbs (32 kg)",
+    "build": "Slim, athletic build with natural definition; balanced, adult proportions.",
+    "posture": "Relaxed upright stance; shoulders neutral; natural hand placement.",
+    "body_proportions": "Proportions consistent with an adult; even torso-to-leg balance."
+  },
+  "facial_structure": {
+    "face_shape": "Oval/heart hybrid with soft contour and adult bone structure.",
+    "jawline": "Softly defined, even symmetry.",
+    "cheekbones": "Moderate height with gentle highlight falloff.",
+    "chin": "Rounded, proportionate.",
+    "nose": "Straight bridge, medium width, slightly rounded tip.",
+    "mouth": "Neutral lips with light definition; natural cupid’s bow.",
+    "skin_tone": "Light peach with warm undertones (HEX #F6D1B1).",
+    "beard_stubble": "None.",
+    "lips_detail": "Soft matte texture; hydrated look without gloss.",
+    "eyes": {
+      "shape": "Almond with slight upward tilt at outer corners.",
+      "iris": "Desaturated green (HEX #5E8C6A) with subtle radial striations.",
+      "eyelashes": "Natural length and density.",
+      "brows": "Straight, medium thickness; warm brown (HEX #8A5A2B).",
+      "sclera_detail": "Off‑white with faint vascular detail for realism.",
+      "catchlight": "Soft dual catchlights to add depth."
+    },
+    "hair": {
+      "length_cut": "Long hair gathered into a high ponytail; side‑swept bangs.",
+      "style": "Straight with light natural movement; ponytail secured with light tan elastic.",
+      "texture": "Smooth, healthy strands.",
+      "shine": "Medium gloss under key light.",
+      "color": "Chestnut brown (HEX #8B5A2B) with subtle golden highlights.",
+      "root_variation": "Slightly darker roots for realism.",
+      "flyaways": "Few fine flyaways at hairline for naturalism."
+    }
+  },
+  "costume": {
+    "material": "Soft cotton‑blend knit shirt; mid‑weight athletic knit shorts; canvas sneakers.",
+    "shirt details": "white shirt with words 'Monster Girl' written in green.",
+    "primary_color": "#FFFFFF",
+    "secondary_color": "#2F7F5F",
+    "accessories": "Light tan hair elastic; no jewelry."
+  },
+  "lighting_behavior": "Neutral three-point lighting; soft key, cool fill, faint rim; lock exposure/white balance.",
+  "rendering": {
+    "safety_flags": {
+      "overlay": false,
+      "no_text": true
+    }
+  },
+  "char_spec": {
+    "shot_rules": {
+      "framing": "Waist‑up or full‑body framing; neutral camera at eye level; static shot.",
+      "camera_move": "None or minimal dolly‑in (<3%).",
+      "lens": "50mm equivalent for natural perspective.",
+      "direction": "Neutral posture; non‑suggestive posing; no romantic or sexual cues; friendly interview demeanor."
+    },
+    "safety_notes": "Adult actor (18). Non‑sexual context. Casual interview setting. Avoid suggestive framing, dialogue, or poses."
+  },
+  "voice_style": "Target: Grey Griffin (human form) performance — bright youthful mezzo; cadence direct, lively; ~155 wpm; neutral American; studio-dry, close-mic; no reverb/chorus; no robotic TTS artefacts; no childlike squeak."
+}

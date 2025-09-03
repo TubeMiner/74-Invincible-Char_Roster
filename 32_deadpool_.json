@@ -1,0 +1,60 @@
+{
+  "name": "Wade Wilson / Deadpool",
+  "type": "Veo3 Ultra-Realistic Character — Actor in Costume",
+  "age": 38,
+  "ethnicity": {
+    "caucasian": 100
+  },
+  "physical_specifications": {
+    "height": "6’2” (188 cm)",
+    "weight": "210 lbs (95 kg)",
+    "build": "Muscular yet agile frame with broad shoulders and lean waist. Defined chest and arms, flexible movement emphasized. Physique strikes a balance between superhero intimidation and stunt-ready athleticism.",
+    "posture": "Relaxed, cocky; tends to lean casually or shift weight between legs. Breaks rigid superhero posture with playful stance.",
+    "body_proportions": "Long arms and legs with balanced torso; proportions ideal for exaggerated gestures."
+  },
+  "facial_structure": {
+    "mask": "Full red-and-black mask covering entire head and neck. Matte stretch material with reinforced stitching, no exposed skin. White opaque eyepieces with expressive black outlines that shift subtly for emotion.",
+    "under_mask": "Burn-scarred skin with rough texture (not visible unless mask removed).",
+    "eyes": {
+      "iris": "Hidden by white eye lenses.",
+      "expression": "Mask lenses narrow or widen subtly to mimic cartoonish emotional shifts."
+    }
+  },
+  "costume": {
+    "material": "Tactical matte spandex with ballistic nylon panels and reinforced seams. Subtle wear-and-tear detail for realism.",
+    "primary_color": "Deep crimson red (HEX #B01030) for torso, arms, and legs.",
+    "secondary_color": "Jet black (HEX #000000) accents around shoulders, sides, gloves, boots, and mask patches.",
+    "mask": "Full coverage red mask with large black oval eye patches extending to temples; white reflective eye lenses with black trim.",
+    "gloves": "Black leather tactical gloves with reinforced knuckles and stitching detail.",
+    "boots": "Black combat boots with heavy tread soles, shin guards, and strap closures.",
+    "belt": "Utility belt in dark brown leather with metallic silver buckle featuring Deadpool insignia; pouches on sides for gear.",
+    "weapons": "Dual katana swords sheathed in an X-pattern on his back; black scabbards with leather wrap. Additional holstered pistols at thighs.",
+    "coverage_rule": "Suit covers entire torso, legs, and arms with no exposed skin except occasional damaged tears for realism."
+  },
+  "lighting_behavior": "Red panels glow slightly warmer under golden-hour lighting; black panels absorb light for matte contrast. White lenses reflect sharp highlights for expressive emphasis.",
+  "voice_style": "Target: Ryan Reynolds as Deadpool performance — light baritone; cadence quippy, amused; ~165 wpm; neutral North American; studio-dry, close-mic; no reverb/chorus; no robotic TTS artefacts; no radio‑style compression.",
+  "rendering_constraints": {
+    "must_render": [
+      "Red-and-black full body suit",
+      "Full mask with white opaque eye lenses",
+      "Dual katanas crossed on back",
+      "Utility belt with insignia buckle",
+      "Black tactical gloves and boots"
+    ],
+    "forbidden_visuals": [
+      "Unmasked face (unless specified)",
+      "Blue or bright superhero color schemes",
+      "Cape or armor plating not part of Deadpool design"
+    ]
+  },
+  "overlay": {
+    "text": "Deadpool",
+    "style": {
+      "background_color": "dark-yellow",
+      "font_color": "black",
+      "font type": "aptos",
+      "font_size": 28,
+      "position": "top_left"
+    }
+  }
+}

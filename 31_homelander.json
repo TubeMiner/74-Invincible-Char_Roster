@@ -1,0 +1,72 @@
+{
+  "name": "Homelander",
+  "type": "Veo3 Ultra-Realistic Character — Actor in Costume",
+  "age": 42,
+  "ethnicity": {
+    "caucasian": 100
+  },
+  "physical_specifications": {
+    "height": "5'11\" (180 cm)",
+    "weight": "190 lbs (86 kg)",
+    "build": "Athletic superhero frame with broad chest, defined arms and shoulders; lean waist; muscles visible under suit compression.",
+    "posture": "Rigid, upright, chest slightly puffed; hands often on hips; dominant stance.",
+    "body_proportions": "Proportional torso-to-leg ratio; slightly longer torso for an imposing silhouette."
+  },
+  "facial_structure": {
+    "face_shape": "Oval with square jawline; classically handsome but unnervingly perfect.",
+    "jawline": "Angular, strong, clean edges.",
+    "cheekbones": "High and pronounced, casting defined shadows under key light.",
+    "chin": "Squared and firm.",
+    "nose": "Straight, narrow bridge, refined tip.",
+    "mouth": "Medium fullness with subtle smirk.",
+    "skin_tone": "Fair with cool undertones (HEX #F1D3C1).",
+    "skin_texture": "Even, smooth; faint crow's feet for realism.",
+    "eyes": {
+      "shape": "Medium, deep-set, focused stare.",
+      "iris_color": "Icy blue (HEX #3A8CC1) with steel-gray limbal ring.",
+      "eyelashes": "Short, light blond.",
+      "brows": "Golden-blond, well-groomed, mostly straight with shallow arch."
+    },
+    "hair": {
+      "length_cut": "Short side-part; ~3 in (7.5 cm) on top, tapered sides.",
+      "style": "Neat, controlled, lightly slicked; no loose flyaways.",
+      "texture": "Fine, straight; natural volume at front wave (no Superman curl).",
+      "shine": "Medium under studio light.",
+      "color": "Golden blond (HEX #E6C36A) with lighter highlights."
+    }
+  },
+  "costume": {
+    "notes": "Lock this exact suit. No shirtless fallback. No Superman cues.",
+    "base_material": "Dark navy armored knit with micro hex scale texture; matte with subtle sheen in highlights.",
+    "primary_color": "Deep navy (HEX #0D1F47) for torso, sleeves, legs.",
+    "secondary_color": "Crimson red (HEX #B22222) for cape interior/exterior, glove panels, boot uppers.",
+    "gold_accents": "Rich metallic gold (HEX #C6A340) on chest emblem, belt, boot trim, glove cuffs, shoulder eagles.",
+    "cape": "Full-length crimson cape, heavy satin-finish, attached under gold eagle-shoulder armor; cape edge straight, not scalloped.",
+    "chest_emblem": "Embossed spread-wing eagle centered on chest in metallic gold; wings wrap slightly onto upper pectorals; NO letters, NO shields, NO glyphs.",
+    "shoulder_armor": "Gold eagle heads on each shoulder (left/right mirrored), sculpted metallic look, integrated into cape anchors.",
+    "gloves": "Form-fitting crimson gloves with gold cuffs; visible seam lines; gloves end mid-forearm.",
+    "belt": "Gold utility-style belt with central polished eagle buckle; low-profile rectangular segments around waist; no pouches protruding.",
+    "boots": "Knee-high crimson boots with angular gold panels and embossed feather motifs; firm structure, not soft fabric.",
+    "coverage_rule": "Suit fully covers torso, abdomen, and arms at all times; no exposed skin on chest or stomach.",
+    "texture_rule": "Maintain micro hex scale texture across blue suit areas; do not switch to plain spandex.",
+    "fit_rule": "Compression fit that reveals muscular definition without wrinkles or bagginess."
+  },
+  "lighting_behavior": "Cool key light creates crisp highlights on gold accents; navy suit remains matte with gentle sheen; eyes intensify under spotlight.",
+  "voice_style": "Target: Antony Starr as Homelander performance — smooth TV‑anchor baritone; cadence controlled, smug; ~140 wpm; neutral American; studio-dry, close-mic; no reverb/chorus; no robotic TTS artefacts.",
+  "rendering_constraints": {
+    "must_render": [
+      "Gold spread-wing eagle emblem on chest",
+      "Gold eagle shoulder anchors for cape",
+      "Crimson full-length cape",
+      "Gold belt with eagle buckle",
+      "Crimson gloves and knee-high crimson boots with gold trim",
+      "Navy micro hex textured suit covering entire torso and arms"
+    ],
+    "forbidden_visuals": [
+      "Any letter or shield on chest (no 'S' shield)",
+      "Kryptonian-style glyphs or diamond-shaped logos",
+      "Bare chest or shirtless torso",
+      "Blue suit with bright red underwear-over-suit styling"
+    ]
+  }
+}

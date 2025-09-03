@@ -1,0 +1,60 @@
+{
+  "schema_version": "char_v1.0",
+  "name": "Mark Grayson / Invincible",
+  "type": "Veo3 Ultra-Realistic Character",
+  "age": 23,
+  "ethnicity": {
+    "italian": 100,
+    "asian": 0
+  },
+  "physical_specifications": {
+    "height": "6'3\" (191 cm)",
+    "weight": "174 lbs",
+    "build": "Athletic, muscular build  — broad shoulders (~23 inches), pronounced pectorals visible through suit texture, narrow waist (~31 inches) for a V-shaped torso; arms well-developed with visible biceps and forearm contour under the suit.",
+    "posture": "Confident, squared shoulders, chest forward, neck upright, gaze level toward camera.",
+    "body_proportions": "Leg length ~54% of height; arms proportional, reaching mid-thigh at rest."
+  },
+  "facial_structure": {
+    "face_shape": "Oval with strong, defined jawline.",
+    "jawline": "Angular, pronounced without excessive sharpness.",
+    "cheekbones": "Medium-high and prominent under lighting.",
+    "chin": "Squared with slight roundness, no cleft.",
+    "nose": "Straight bridge, medium width, slightly rounded tip.",
+    "mouth": "Medium fullness lips; neutral expression; lips closed.",
+    "skin_tone": "Light with warm undertone (HEX #F0D7C6).",
+    "skin_texture": "Smooth, realistic pore detail; faint natural texture visible under daylight.",
+    "eyes": {
+      "shape": "Almond-shaped, focused gaze.",
+      "iris": "Dark brown (HEX #3B2E2A)",
+      "brows": "Thick, natural arch, dark brown (HEX #1B1B1B)"
+    },
+    "hair": {
+      "length_cut": "Italian hair. Cinematic undercut with sharp faded sides, long thick top swept back in textured waves, glossy strands catching light, windswept highlights for a bold, heroic look. Short sides with longer (~4–5 inches).",
+      "color": "Jet black (HEX #1B1B1B) with soft natural highlights.",
+      "texture": "Thick, straight, matte finish, voluminous front wave."
+    }
+  },
+  "costume": {
+    "material": "High-quality matte stretch leather-composite with visible grain and slight creasing under tension.",
+    "primary_color": "Golden yellow (HEX #FFD84D) forming a sharp downward V from shoulders to upper abdomen, covering upper chest and continuing onto inner arms and forearm cuffs.",
+    "secondary_color": "Deep navy blue (HEX #1B2B45) covering torso sides, outer arms, abdomen, and legs.",
+    "tertiary_color": "Desaturated teal-blue (HEX #2B6A7A) as small upper-chest panels near armpits.",
+    "design_details": "Form-fitted paneling with rounded yellow shoulder caps and seamless teal-blue accent panels; no armor plating.",
+    "gloves": "Golden yellow leather integrated into suit, extending from mid-forearm to fingers.",
+    "boots": "Golden yellow boots reaching just below the knee, smooth leather with minimal seams, integrated with navy leg panels.",
+    "accessories": [
+      {
+        "type": "sunglasses",
+        "description": "Thick yellow wraparound sports sunglasses with wide arms and yellow mirrored lenses (not aviators).  "
+      }
+    ]
+  },
+  "lighting_behavior": "Neutral three-point lighting with soft key, cool fill, and faint rim light; lock exposure and white balance.",
+  "rendering": {
+    "safety_flags": {
+      "overlay": false,
+      "no_text": true
+    }
+  },
+  "voice_style": "Target: Steven Yeun as Mark performance — youthful mid‑high tenor, warm, earnest; cadence natural, emotional; ~155 wpm; neutral American; studio-dry, close-mic; no reverb/chorus; no robotic TTS artefacts; soft breaths allowed."
+}

@@ -1,0 +1,62 @@
+{
+  "schema_version": "char_v1.0",
+  "name": "Cecil Stedman",
+  "type": "Veo3 Ultra-Realistic Character",
+  "ethnicity": {},
+  "physical_specifications": {
+    "height": "6'0\" (183 cm)",
+    "weight": "200 lbs (91 kg)",
+    "build": "Lean but visibly muscular under the suit — broad shoulders, strong chest, tapered waist. Muscle definition subtly visible through slim-cut fabric.",
+    "posture": "Upright, commanding stance; one hand on hip, the other gesturing with precision. Shoulders squared, head slightly tilted forward when emphasizing a point.",
+    "body_proportions": "Long legs for height emphasis; balanced torso-to-leg ratio; strong hands with visible veins."
+  },
+  "facial_structure": {
+    "face_shape": "Rectangular with high, defined cheekbones and a strong jawline.",
+    "jawline": "Chiseled, symmetrical, no scar.",
+    "cheekbones": "High and well-defined.",
+    "chin": "Square and proportionate.",
+    "nose": "Straight with a refined bridge.",
+    "mouth": "Medium fullness lips; subtle confident curve at rest.",
+    "skin_tone": "Light with warm undertone (HEX #E8C7A1), smooth and even.",
+    "skin_texture": "Well-maintained complexion with faint natural lines for realism.",
+    "eyes": {
+      "shape": "Slightly deep-set with sharp gaze.",
+      "iris": "Steel blue (HEX #5A7FA8)",
+      "brows": "Thick, straight, silver-touched dark brown."
+    },
+    "hair": {
+      "length_cut": "Long, straight, side-parted (same silhouette as his younger years).",
+      "style": "Clean sweep to the side with controlled volume; sides tucked neatly behind ears; back length to just past collar.",
+      "texture": "Thick, slightly coarser strands appropriate to age; meticulously groomed with subtle flyaways for realism.",
+      "shine": "Medium sheen under key light with soft specular highlights.",
+      "color": "Natural white base with subtle silver-gray lowlights and a hint of ash at the roots (base HEX #F2F2F2, lowlights HEX #BFC5C8, root tone HEX #A8ADB3).",
+      "aging_notes": "Hairline unchanged from younger style; density intact. White coloration reads mature but vigorous — no yellow tint. Maintain exact shape language from reference images."
+    }
+  },
+  "costume": {
+    "primary_color": "#1A2732",
+    "accessories": "Small American flag lapel pin on left lapel."
+  },
+  "lighting_behavior": "Neutral three-point lighting; soft key, cool fill, faint rim; lock exposure/white balance.",
+  "rendering": {
+    "safety_flags": {
+      "overlay": false,
+      "no_text": true
+    }
+  },
+  "char_spec": {
+    "char_spec": {
+      "age_human_equivalent": "Mid-50s",
+      "movement_gestures": "One hand on hip, the other gesturing in short, precise movements., Occasionally leans slightly forward when delivering critical lines., Maintains intense but composed eye contact.",
+      "voice_style": {
+        "fundamental_freq_hz": "95–110",
+        "timbre": "Deep, commanding, with a smooth authoritative resonance.",
+        "pace": "Controlled and deliberate.",
+        "articulation": "Sharp consonants; slight downward inflection on important words.",
+        "reference_line": "We make the hard choices, so others don’t have to."
+      },
+      "instruction": "Ultra-Realistic Character — high-powered intelligence chief. Render only in slim-cut navy or charcoal suit with white shirt, red tie, polished black shoes, and flag lapel pin. No overcoat, trench, or cape."
+    }
+  },
+  "voice_style": "Target: Walton Goggins as Cecil performance — dry low baritone; cadence even, calculating; ~135 wpm; subtle Southern lilt; studio-dry, close-mic; no reverb/chorus; no robotic TTS artefacts; no drawl exaggeration."
+}

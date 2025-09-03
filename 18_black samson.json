@@ -1,0 +1,56 @@
+{
+  "name": "Black Samson",
+  "type": "Veo3 Ultra-Realistic Character — Actor in Costume",
+  "age": 45,
+  "ethnicity": {
+    "african_american": 100
+  },
+  "physical_specifications": {
+    "height": "6’2” (188 cm)",
+    "weight": "225 lbs (102 kg)",
+    "build": "Broad-shouldered, muscular-athletic frame with deep chest, thick arms, and powerful legs. Dense muscle definition visible beneath costume compression.",
+    "posture": "Squared, confident stance with relaxed fists at sides.",
+    "body_proportions": "V-taper torso, thick forearms framed by gauntlets."
+  },
+  "facial_structure": {
+    "face_shape": "Oval-rectangular with strong cheekbones and prominent brow.",
+    "jawline": "Broad, square, and well-defined.",
+    "cheekbones": "Medium-high, subtly pronounced.",
+    "chin": "Squared, proportional.",
+    "nose": "Straight bridge, medium width.",
+    "mouth": "Medium fullness, confident neutral set.",
+    "skin_tone": "Deep brown, warm undertone (HEX #5C3A2B).",
+    "skin_texture": "Smooth with realistic pore detail and natural sheen.",
+    "eyes": {
+      "shape": "Almond-shaped, steady gaze.",
+      "iris": "Dark brown (HEX #3A2A1F).",
+      "brows": "Thick, slightly arched, deep brown."
+    },
+    "hair": {
+      "length_cut": "Completely bald, clean-shaven.",
+      "facial_hair": "None."
+    }
+  },
+  "costume": {
+    "material": "Matte stretch base suit (spandex-poly blend) reinforced with segmented semi-rigid armor plates in satin-matte finish.",
+    "primary_color": "Light grey-white bodysuit (HEX #EDEDED).",
+    "secondary_color": "Violet armor plating (HEX #7A6FA3) with darker trims (HEX #5E5586).",
+    "design_notes": [
+      "Segmented chest armor with hexagonal/plate patterns edged in darker violet.",
+      "Violet collar ring and shoulder caps built into upper armor.",
+      "Violet forearm gauntlets with exposed palms/fingers, armored backs.",
+      "Orange rectangular panel on abdomen, flat finish (status marker).",
+      "No cape, no utility belt."
+    ],
+    "gloves": "Integrated with gauntlets; violet back-plates, exposed palms/fingers.",
+    "boots": {
+      "height": "Low-calf integrated with bodysuit.",
+      "color": "Light grey-white with violet sole edge.",
+      "toe": "Rounded, smooth profile.",
+      "sole": "Flat, low-profile, minimal tread."
+    },
+    "mask_or_headgear": "None."
+  },
+  "lighting_behavior": "Neutral key light; soft rim light to outline violet armor against light bodysuit.",
+  "voice_style": "Target: Khary Payton as Black Samson performance — rich baritone; cadence mentor‑calm; ~135 wpm; neutral American; studio-dry, close-mic; no reverb/chorus; no robotic TTS artefacts."
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "char_v1.0",
+  "name": "Nolan Grayson / Omni-Man",
+  "type": "Veo3 Ultra-Realistic Character",
+  "age": 56,
+  "ethnicity": {},
+  "physical_specifications": {
+    "height": "6’3” (191 cm)",
+    "weight": "245 lbs (111 kg)",
+    "posture": "Dominant stance, squared shoulders, chest out, head slightly angled downward when addressing others.",
+    "build": "Massive, power-lifter physique with broad, barrel chest (56 inches), thickly muscled arms (19-inch biceps) and forearms; heavily defined thighs and calves; wide shoulders with imposing trapezius muscles. Suit compression reveals muscle striation subtly.",
+    "body_proportions": "Arms slightly longer than average, legs making up 50% of height, giving a grounded, dominant stance."
+  },
+  "facial_structure": {
+    "face_shape": "Rectangular with broad forehead, strong jawline, and wide chin — 95% match to reference image, with slightly deepened brow ridge and compact cranial height for intensity.",
+    "jawline": "Sharp, square, heavily defined with visible mandibular angle; subtle shadow under jawline for depth.",
+    "cheekbones": "High, angular, casting distinct shadows as in reference image; cheeks kept lean for chiseled look.",
+    "skin_tone": "Light with cool undertone (HEX #F4D5B1), faint sunspots near temples.",
+    "hair": {
+      "style": "Military short sides with a clean high fade into mid-size top (~1.5 inches) styled in a controlled backward sweep; temple area blends into sharp silver streaks; precise hairline with no stray hairs.",
+      "color": "Dark brown base (HEX #2B1B12) with high-contrast pure silver streaks at the temples (HEX #C0C0C0), blended seamlessly along the fade. The sides are pure white.",
+      "texture": "Thick, healthy strands with realistic separation at hairline and visible strand detail in close-ups; slightly coarser at the crown for age realism.",
+      "shine": "Low to medium matte sheen for natural realism under studio lighting."
+    },
+    "eyes": {
+      "shape": "Deep-set with heavy brow ridge, intense gaze.",
+      "color": "Steel blue (HEX #4A6FA5)",
+      "brows": "Thick, straight, dark brown with a touch of silver near temples."
+    },
+    "nose": "Broad bridge, slight downward tilt at tip.",
+    "mouth": "Firm set lips, medium fullness, lower lip slightly thicker.",
+    "mustache": {
+      "style": "Full, dense military mustache, uniform thickness from center to corners, with slight downward curve matching upper lip contour; precise even trim.",
+      "color": "Dark brown (HEX #2B1B12) with a few bright silver strands (HEX #C0C0C0) for realism.",
+      "texture": "Coarse, dense hair with clearly visible individual strands; softer taper at outer edges."
+    },
+    "skin_texture": "Visible pores and faint expression lines around eyes and forehead; realistic shading around jaw and temples."
+  },
+  "costume": {
+    "notes": "Crimson (HEX #B00000) torso and cape; white sleeves/leggings (HEX #F9F9F9); crimson gloves and boots. Cape: heavy fabric with soft ripples, mid-calf length.",
+    "material": "High-density matte compression fabric; white sections have micro-honeycomb texture, crimson sections smooth with faint sheen.",
+    "boots": "Crimson knee-high boots, reinforced leather panels with subtle wear creases.",
+    "gloves": "Crimson leather gloves, snug fit, faint knuckle contour.",
+    "cape_detail": "Weighted crimson cape with deep fabric folds, attaches seamlessly at shoulders with reinforced collar base.",
+    "logo": "Prominent red-and-white 'O' emblem centered on chest, proportionally sized to upper torso; vertical stripe integrated; always visible in all shots regardless of framing or angle."
+  },
+  "lighting_behavior": "Neutral three-point lighting; soft key, cool fill, faint rim; lock exposure/white balance.",
+  "voice_style": "Target: J.K. Simmons as Omni‑Man performance — resonant baritone with gravel edge; cadence measured, authoritative; ~135 wpm; neutral American; studio-dry, close-mic; no reverb/chorus; no robotic TTS artefacts; firm consonants, minimal breath noise."
+}
